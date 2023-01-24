@@ -18,7 +18,7 @@
 ### Currently learning:
 - 🔭 PostgreSQL so I can work with both SQL & NoSQL databases
 - after several completed projects I will start working on cloud based apps
-- 👯 I’m looking to collaborate on anything involving Next JS/React and Solidity
+- 🫱🏾‍🫲🏻 I’m looking to collaborate on anything involving Next JS/React and Solidity
 ---
 ### 🕺🏾 Hobbies:
 - anime
