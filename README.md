@@ -1,7 +1,7 @@
-## Hey, I'm Sean 👋
-### Full-Stack Web & Blockchain Developer
+# Hey, I'm Sean 👋
+## Full-Stack Web & Blockchain Developer
 ---
-#### 🛠 Current Stack/Tools
+### 🛠 Current Stack/Tools
 
 - Next JS / Javascript
 - Solidity
@@ -12,16 +12,15 @@
 - VS Code
 - Git
 ---
-#### Curently working on:
+### Curently working on:
 - portfolio site & projects to pursue professional work
 
-#### Currently learning:
+### Currently learning:
 - 🔭 PostgreSQL so I can work with both SQL & NoSQL databases
 - after several completed projects I will start working on cloud based apps
----
 - 👯 I’m looking to collaborate on anything involving Next JS/React and Solidity
-
-#### 🕺🏾 Hobbies:
+---
+### 🕺🏾 Hobbies:
 - anime
 - video games
 - movies/series
