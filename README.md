@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hey, I'm Sean 👋
+### Full-Stack Web & Blockchain Developer
+---
+#### 🛠 Current Stack/Tools
 
-<!--
-**Seanih/Seanih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Next JS / Javascript
+- Solidity
+- Hardhat 
+- Ethers JS
+- MongoDB
+- Tailwind CSS
+- VS Code
+- Git
+---
+#### Curently working on:
+- portfolio site & projects to pursue professional work
 
-Here are some ideas to get you started:
+#### Currently learning:
+- 🔭 PostgreSQL so I can work with both SQL & NoSQL databases
+- after several completed projects I will start working on cloud based apps
+---
+- 👯 I’m looking to collaborate on anything involving Next JS/React and Solidity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🕺🏾 Hobbies:
+- anime
+- video games
+- movies/series
+- music
+- walking / exercise
+- learning about programming and software!
+
+- ⚡ Fun fact: I'm an Audio Engineer transitioning into a field that gives me more satisfaction than anything I've ever experienced before.
