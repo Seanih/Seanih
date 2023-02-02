@@ -28,4 +28,4 @@
 - walking / exercise
 - learning about programming and software!
 
-- ⚡ Fun fact: I'm an Audio Engineer transitioning into a field that gives me more satisfaction than anything I've ever experienced before.
+- ⚡ Fun fact: I have a background in 🎧Audio Engineering🎙 and 🎹Production🎶
