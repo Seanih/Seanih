@@ -17,7 +17,7 @@
 - portfolio site & projects to pursue professional work
 
 ### Currently learning:
-- 🔭 Python to incorporate scripting, scraping and crawling functionality
+- 🔭 Python to incorporate automation, scraping and crawling functionality
 ---
 ### 🕺🏾 Hobbies:
 - anime
