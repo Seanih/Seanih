@@ -17,8 +17,7 @@
 - portfolio site & projects to pursue professional work
 
 ### Currently learning:
-- 🔭 PostgreSQL so I can work with both SQL & NoSQL databases
-- 🫱🏾‍🫲🏻 I’m looking to collaborate on anything involving Next JS/React and Solidity
+- 🔭 Python to incorporate scripting, scraping and crawling functionality
 ---
 ### 🕺🏾 Hobbies:
 - anime
