@@ -3,11 +3,12 @@
 ---
 ### 🛠 Current Stack/Tools
 
-- Next JS / Javascript
+- Javascript / Next JS
+- Go
 - Solidity
 - Hardhat 
 - Ethers JS
-- PostgreSQL / AWS RDS
+- SQL: MySQL / PostgreSQL / AWS RDS
 - MongoDB
 - Tailwind CSS
 - VS Code
@@ -16,8 +17,6 @@
 ### Curently working on:
 - portfolio site & projects to pursue professional work
 
-### Currently learning:
-- 🔭 Python to incorporate automation, scraping and crawling functionality
 ---
 ### 🕺🏾 Hobbies:
 - anime
