@@ -2,21 +2,17 @@
 ## Full-Stack Web & Blockchain Developer
 ---
 ### 🛠 Current Stack/Tools
-
-- Javascript / Next JS
-- Go
+- Javascript | Next JS
 - Solidity
 - Hardhat 
 - Ethers JS
 - SQL: MySQL / PostgreSQL / AWS RDS
-- MongoDB
 - Tailwind CSS
 - VS Code
-- Git
+- Git | Github
 ---
-### Curently working on:
-- portfolio site & projects to pursue professional work
-
+### Curently:
+- persuing professional work and building projects
 ---
 ### 🕺🏾 Hobbies:
 - anime
