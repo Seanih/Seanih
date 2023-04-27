@@ -20,6 +20,6 @@
 - movies/series
 - music
 - walking / exercise
-- learning about programming and software!
+- learning about programming and software
 
 - ⚡ Fun fact: I have a background in 🎧Audio Engineering🎙 and 🎹Production🎶
